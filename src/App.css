@@ -1,0 +1,19 @@
+.confirm_box{
+    height: 170px;
+    width: 250px;
+    position: relative;
+    bottom: 360px;
+    left: 500px;
+    z-index: 2;
+    border-radius: 10px;
+    background-color: #f1f5f9;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid blue;
+
+}
